@@ -3,8 +3,9 @@
 We develop wonderful tools to help you to work with databases.
 
 ### Open Source 
-- [DBeaver Community](https://github.com/dbeaver/dbeaver)
-- [CloudBeaver Community](https://github.com/dbeaver/cloudbeaver)
+- [DBeaver](https://github.com/dbeaver/dbeaver) - desktop client
+- [CloudBeaver](https://github.com/dbeaver/cloudbeaver) - web client
+- [dbvr](https://github.com/dbeaver/dbvr) - CLI client
 
 ### PRO products
 
